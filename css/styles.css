@@ -401,7 +401,7 @@ span.wave {
 	padding: 1em 0;
 	font-size: 7 px;
 	display: none;
-	color:lightcyan;
+	color:cyan;
 	text-align: center;
 }
 
@@ -458,7 +458,7 @@ span.wave {
 		padding: 1em 0;
 		font-size: 7 px;
 		display: none;
-		color:lightcyan;
+		color:cyan;
 		text-align: center;
 	}
 	
@@ -517,7 +517,7 @@ span.wave {
 		padding: 2px 0;
 		font-size: 10px;
 		display: none;
-		color:lightcyan;
+		color:cyan;
 		text-align: center;
 	}
 
