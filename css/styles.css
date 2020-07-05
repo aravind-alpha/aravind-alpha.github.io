@@ -233,7 +233,7 @@ span.wave {
 
 #spin {
 	color:cyan;
-	font-style:italic;
+	font-style:normal;
 	margin: 0 .2em;
   }
   #spin:after {
