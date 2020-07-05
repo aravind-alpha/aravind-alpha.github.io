@@ -241,17 +241,25 @@ span.wave {
 	animation: spin 20s linear infinite;
   }
   @keyframes spin {
-	0% { content: "self-taught";}
-	10% { content: "passionate";}
-	20% {content: "pragmatic";}
-	40% { content: "self-taught";}
-	50% { content: "passionate";}
-	60% {content: "pragmatic";}
-	80% { content: "self-taught";}
-	90% { content: "passionate";}
-	100% {content: "pragmatic";}
+  0% {
+    content: "self-taught";
+  }
+  20% {
+    content: "passionate";
+  }
+  40% {
+    content: "pragmatic";
+  }
+  60% {
+    content: "self-taught";
+  }
+  80% {
+    content: "passionate";
+  }
+  100% {
+    content: "pragmatic";
+  }
 }
-
 
 .button {
 	text-align: center;
