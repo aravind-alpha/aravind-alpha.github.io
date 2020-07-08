@@ -96,7 +96,6 @@ body {
 
 .header .menu-icon {
   cursor: pointer;
-  display: inline-block;
   float: right;
   padding: 28px 15px;
   position: relative;
@@ -1088,7 +1087,7 @@ span.wave {
 }
 
 .footer {
-  padding: 1rem;
+  padding: 10px;
   background-color: #e3f2fd;
   width: 100%;
   display: flex;
