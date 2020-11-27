@@ -393,13 +393,13 @@ span.wave {
 .home-skills {
   display: block;
   padding: 3em 1.5em;
-  background: #e3f2fd;
+  background: #21313d;
 }
 
 .skills-para {
   font-weight: 500;
   font-size: 24px;
-  color: #157af6;
+  color: #0073ff;
   margin: 1em;
   align-self: center;
 }
@@ -451,7 +451,7 @@ span.wave {
   .home-skills {
     display: block;
     padding: 3em 1.5em;
-    background: #e3f2fd;
+    background: #21313d;
   }
 
   .skills-para {
@@ -508,7 +508,7 @@ span.wave {
   .home-skills {
     display: block;
     padding: 0.5em 0.5em;
-    background: #e3f2fd;
+    background: #21313d;
   }
 
   .skills-para {
